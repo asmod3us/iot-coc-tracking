@@ -6,7 +6,6 @@
 ## Impact
 ## Outcome
 ## Effort
-## Date
 ## Owner
 
 TODO:
